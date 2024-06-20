@@ -1,4 +1,4 @@
-# get-whois-from-asn-list
+# get_whois_from_asn_list
 Get Whois details of multiple ASNs or Prefixes.
 
 You have to provide a list of AS numbers or prefixes as a text file. One ASN or prefix per line. You have to wirte "AS", right front of the ASNs.
